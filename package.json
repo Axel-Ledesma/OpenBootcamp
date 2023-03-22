@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "ejercicio 1 Javascript basico",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel-Ledesma/OpenBootcamp.git"
+  },
+  "author": "Axel Ledesma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axel-Ledesma/OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/Axel-Ledesma/OpenBootcamp#readme"
+}
